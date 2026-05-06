@@ -1,0 +1,9 @@
+{
+  "split_ratio": 0.8,
+  "random_seed": 42,
+  "tag_weight_threshold": 5,
+  "n_users": 50,
+  "A_rows": 20000,
+  "B_rows": 5000,
+  "strategy": "stratified \u2014 reserve \u22651 tagged song per prompt for B, fill randomly to 20%"
+}

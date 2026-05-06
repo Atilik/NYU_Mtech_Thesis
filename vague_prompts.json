@@ -1,0 +1,58 @@
+{
+  "prompts": [
+    "chill",
+    "mellow",
+    "melancholy",
+    "dark",
+    "romantic",
+    "happy",
+    "energetic",
+    "dreamy",
+    "party",
+    "catchy"
+  ],
+  "min_songs": 50,
+  "min_users": 10,
+  "coverage": {
+    "chill": {
+      "songs": 5014,
+      "users": 50
+    },
+    "mellow": {
+      "songs": 5221,
+      "users": 50
+    },
+    "melancholy": {
+      "songs": 2665,
+      "users": 50
+    },
+    "dark": {
+      "songs": 1122,
+      "users": 50
+    },
+    "romantic": {
+      "songs": 1257,
+      "users": 50
+    },
+    "happy": {
+      "songs": 2862,
+      "users": 50
+    },
+    "energetic": {
+      "songs": 1347,
+      "users": 50
+    },
+    "dreamy": {
+      "songs": 1569,
+      "users": 50
+    },
+    "party": {
+      "songs": 2932,
+      "users": 50
+    },
+    "catchy": {
+      "songs": 3241,
+      "users": 50
+    }
+  }
+}
